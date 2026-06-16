@@ -50,7 +50,7 @@ g++ main.cpp -o automato.exe
 ## Como Executar
 
 ```cmd
-automato.exe
+.\automato.exe
 ```
 
 O programa solicitará uma palavra e informará se ela é **aceita** ou **rejeitada**.
