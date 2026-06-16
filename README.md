@@ -42,8 +42,7 @@ $$AP = (Q,\ \Sigma,\ \Gamma,\ \delta,\ q_0,\ Z_0,\ F)$$
 
 > **Pré-requisito:** compilador g++ (via [MSYS2](https://www.msys2.org/) no Windows).
 
-```cmd
-cd C:\Users\pdi05\Desktop\pilha
+```
 g++ main.cpp -o automato.exe
 ```
 ---
